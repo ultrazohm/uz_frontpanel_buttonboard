@@ -572,7 +572,7 @@ PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 Configuration14_Name1=ColumnNameFormat
 Configuration14_Item1=CaptionAsName
 Configuration14_Name2=General
-Configuration14_Item2=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1602|FormHeight=969|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration14_Item2=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1602|FormHeight=969|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration14_Name3=GroupOrder
 Configuration14_Item3=Comment=True|Footprint=True|Manufacturer Part Number=True
 Configuration14_Name4=OutputConfigurationParameter1
@@ -708,8 +708,8 @@ OpenOutput7=0
 OutputFilePath8=C:\Users\ga92wum\git\UltraZohm\PCB\ultrazohm_digital_optical_16tx_3rx_2vxx\Project Outputs for Digital_Optical_18Tx_14Tx4Rx_3vxx\
 ReleaseManaged8=1
 OutputBasePath8=Project Outputs for uz_frontpanel_buttonboard
-OutputPathMedia8=
-OutputPathMediaValue8=
+OutputPathMedia8==ProjectRevision
+OutputPathMediaValue8==ProjectRevision
 OutputPathOutputer8=[Output Type]
 OutputPathOutputerPrefix8=
 OutputPathOutputerValue8=
@@ -717,7 +717,7 @@ OutputFileName8=
 OutputFileNameMulti8=='PickPlace_' + ProjectName + '_' + ProjectRevision
 UseOutputNameForMulti8=0
 OutputFileNameSpecial8=
-OpenOutput8=1
+OpenOutput8=0
 OutputFilePath9=C:\Users\ga92wum\git\UltraZohm\PCB\uz_per_rtc_mac\Project Outputs for UZ_per_cb_upgrade\Rev01\
 ReleaseManaged9=1
 OutputBasePath9=Project Outputs for uz_frontpanel_buttonboard
