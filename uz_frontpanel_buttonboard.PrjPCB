@@ -121,41 +121,38 @@ DocumentUniqueId=EUTONNES
 [ProjectVariant1]
 UniqueID=71DFC42C-576D-41D2-8626-2BD91891E07E
 Description=Default
-AllowFabrication=0
-ParameterCount=0
-VariationCount=3
-Variation1=Designator=R1|UniqueId=\LGUSEKVC\ZVDZXGAK|Kind=1|AlternatePart= 
-Variation2=Designator=R3|UniqueId=\LGUSEKVC\MREDBNMR|Kind=1|AlternatePart= 
-Variation3=Designator=R6|UniqueId=\LGUSEKVC\AQNRZGYU|Kind=1|AlternatePart= 
+AllowFabrication=1
+ParameterCount=1
+VariationCount=0
 ParamVariationCount=0
 
+[Parameter2_1]
+Name=ZC_vv
+Value=00
+
 [Parameter1]
-Name=Author
-Value=M. Geier/M. Hoerner
+Name=ZC_PPP
+Value=006
 
 [Parameter2]
-Name=AuthorParam
-Value=M. Geier/M.Hoerner
+Name=ZC_GGG
+Value=004
 
 [Parameter3]
-Name=FinDate
-Value=07/24
+Name=ProjectRevision
+Value=02
 
 [Parameter4]
+Name=ProjectDate
+Value=tbd/26
+
+[Parameter5]
 Name=Project
 Value=uz_frontpanel_buttonboard
 
-[Parameter5]
-Name=ProjectDate
-Value=07/24
-
 [Parameter6]
-Name=ProjectNameCustom
-Value=uz_frontpanel_buttonboard
-
-[Parameter7]
-Name=ProjectRevision
-Value=Rev01
+Name=AuthorParam
+Value=M. Geier / M. Hoerner
 
 [Configuration1]
 Name=Sources
