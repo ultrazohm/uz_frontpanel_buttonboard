@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: uz_frontpanel_buttonboard.PcbDoc   07/06/2026  15:00:10
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : uz_frontpanel_buttonboard-RoundHoles.TXT
+ASCII SlotHoles File : uz_frontpanel_buttonboard-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      27mil (0.687mm)                                           Slot              17        PTH        14.05inch (356.77mm)
+T2      27mil (0.687mm)                                           Slot              1         PTH        0.12inch (3.16mm)
+T3      43mil (1.1mm)                                             Round             14        PTH        1.30inch (33.02mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              32
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,14 @@
+Altium Designer Pick and Place Locations
+C:\Users\UltraZohm\Documents\ultrazohm\uz_frontpanel_buttonboard\Project Outputs for uz_frontpanel_buttonboard\02\Pick Place\Pick Place for uz_frontpanel_buttonboard(Default).csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/06/26
+Time:       15:00
+Revision:   710e7a760b64906a08ba1754d6e6d8dafad9f8e1
+Variant:    Default
+Units used: mm
+
+"Designator","Footprint","Ref-X(mm)","Center-X(mm)","Ref-Y(mm)","Center-Y(mm)","Pad-X(mm)","Pad-Y(mm)","Rotation","Comment","Layer"
+"X1","TSW-107-07-XXX-S","24.1750","31.7950","13.9650","12.6950","24.1750","13.9650","0","2.54-2*7P Pin Header","BottomLayer"
